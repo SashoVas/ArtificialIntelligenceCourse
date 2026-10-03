@@ -10,4 +10,4 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 
 ## 📌 Additional Resources
 
-* [Python Syntax](HelpfulMaterials/python_intro.ipynb)
+* [Python Basic Syntax](HelpfulMaterials/python_intro.ipynb)
