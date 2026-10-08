@@ -7,15 +7,15 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 | **Week** | **Topic**        | **Code**    | **Notes**|
 | ---- | ------------ | ------------ | --- |
 | **1**    | **Uninformed Search** | [Notebook](01_UninformedSearch.ipynb) | [Original Notes](Notes/Uninformed%20Search.pdf) |
-| **3**    | **Informed Search** | Notebook | Original Notes |
-| **4**    | **Constrained Satisfaction Problems** | Notebook | Original Notes |
-| **5**    | **Genetic Algorithms** | Notebook | Original Notes |
-| **6**    | **Games(Adversarial Search)** | Notebook | Original Notes |
-| **7**    | **Machine Learning Intro** | Notebook | Original Notes |
-| **8**    | **K-Nearest Neighbors** | Notebook | Original Notes |
-| **9**    | **Decision Tree** | Notebook | Original Notes |
-| **10**    | **Clustering** | Notebook | Original Notes |
-| **11**    | **Neural Networks** | Notebook | Original Notes |
+| **2**    | **Informed Search** | [Notebook](02_InformedSearch.ipynb) | [Original Notes](Notes/Informed%20Search.pdf) |
+| **3**    | **Constrained Satisfaction Problems** | Notebook | Original Notes |
+| **4**    | **Genetic Algorithms** | Notebook | Original Notes |
+| **5**    | **Games(Adversarial Search)** | Notebook | Original Notes |
+| **6**    | **Machine Learning Intro** | Notebook | Original Notes |
+| **7**    | **K-Nearest Neighbors** | Notebook | Original Notes |
+| **8**    | **Decision Tree** | Notebook | Original Notes |
+| **9**    | **Clustering** | Notebook | Original Notes |
+| **10**    | **Neural Networks** | Notebook | Original Notes |
 
 ## 📌 Additional Resources
 
