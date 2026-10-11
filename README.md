@@ -10,7 +10,7 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 | **2**    | **Informed Search** | [Notebook](02_InformedSearch.ipynb) | [Original Notes](Notes/Informed%20Search.pdf) |
 | **3**    | **Constrained Satisfaction Problems** | [Notebook](03_CSP.ipynb) | [Original Notes](Notes/Constraint%20Satisfaction%20Problems.pdf) |
 | **4**    | **Genetic Algorithms** | [Notebook](04_GeneticAlgorithms.ipynb) | [Original Notes](Notes/Genetic%20Algorithms.pdf) |
-| **5**    | **Games(Adversarial Search)** | Notebook | Original Notes |
+| **5**    | **Games(Adversarial Search)** | [Notebook](05_Games.ipynb) | [Original Notes](Notes/Games.pdf) |
 | **6**    | **Machine Learning Intro** | Notebook | Original Notes |
 | **7**    | **K-Nearest Neighbors** | Notebook | Original Notes |
 | **8**    | **Decision Tree** | Notebook | Original Notes |
