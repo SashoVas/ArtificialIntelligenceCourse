@@ -12,10 +12,11 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 | **4**    | **Genetic Algorithms** | [Notebook](04_GeneticAlgorithms.ipynb) | [Original Notes](Notes/Genetic%20Algorithms.pdf) |
 | **5**    | **Games(Adversarial Search)** | [Notebook](05_Games.ipynb) | [Original Notes](Notes/Games.pdf) |
 | **6**    | **Machine Learning Intro** | [Notebook](06_IntroToML.ipynb) | [Original Notes](Notes/Intro%20ML.pdf) |
-| **7**    | **K-Nearest Neighbors** | Notebook | Original Notes |
-| **8**    | **Decision Tree** | Notebook | Original Notes |
-| **9**    | **Clustering** | Notebook | Original Notes |
-| **10**    | **Neural Networks** | Notebook | Original Notes |
+| **7**    | **K-Nearest Neighbors** | [Notebook](07_KNN.ipynb) | [Original Notes](Notes/KNN.pdf) |
+| **8**    | **Naive Bayes** | Notebook | Original Notes |
+| **9**    | **Decision Tree** | Notebook | Original Notes |
+| **10**    | **Clustering** | Notebook | Original Notes |
+| **11**    | **Neural Networks** | Notebook | Original Notes |
 
 ## 📌 Additional Resources
 
