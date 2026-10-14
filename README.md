@@ -14,7 +14,7 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 | **6**    | **Machine Learning Intro** | [Notebook](06_IntroToML.ipynb) | [Original Notes](Notes/Intro%20ML.pdf) |
 | **7**    | **K-Nearest Neighbors** | [Notebook](07_KNN.ipynb) | [Original Notes](Notes/KNN.pdf) |
 | **8**    | **Naive Bayes** | [Notebook](08_NaiveBayes.ipynb) | [Original Notes](Notes/Naive%20Bayes%20Classifier.pdf) |
-| **9**    | **Decision Tree** | Notebook | Original Notes |
+| **9**    | **Decision Tree** | [Notebook](09_DecisionTree.ipynb) | [Original Notes](Notes/Decision%20Tree.pdf) |
 | **10**    | **Clustering** | Notebook | Original Notes |
 | **11**    | **Neural Networks** | Notebook | Original Notes |
 
