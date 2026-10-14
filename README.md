@@ -13,7 +13,7 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 | **5**    | **Games(Adversarial Search)** | [Notebook](05_Games.ipynb) | [Original Notes](Notes/Games.pdf) |
 | **6**    | **Machine Learning Intro** | [Notebook](06_IntroToML.ipynb) | [Original Notes](Notes/Intro%20ML.pdf) |
 | **7**    | **K-Nearest Neighbors** | [Notebook](07_KNN.ipynb) | [Original Notes](Notes/KNN.pdf) |
-| **8**    | **Naive Bayes** | Notebook | Original Notes |
+| **8**    | **Naive Bayes** | [Notebook](08_NaiveBayes.ipynb) | [Original Notes](Notes/Naive%20Bayes%20Classifier.pdf) |
 | **9**    | **Decision Tree** | Notebook | Original Notes |
 | **10**    | **Clustering** | Notebook | Original Notes |
 | **11**    | **Neural Networks** | Notebook | Original Notes |
