@@ -22,6 +22,8 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 
 * [Python Basic Syntax](HelpfulMaterials/python_intro.ipynb)
 * [Linear Models](HelpfulMaterials/LinearModels.ipynb)
+* [Minimax game](HelpfulMaterials/TakeAwayGame.py)
+* [Course Part 1 Recap](HelpfulMaterials/Part1Recap.md)
 
 ## 📊 Course Grading
 
