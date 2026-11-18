@@ -24,6 +24,7 @@ Teaching materials, examples, exercises, and projects for an introductory Artifi
 * [Linear Models](HelpfulMaterials/LinearModels.ipynb)
 * [Minimax game](HelpfulMaterials/TakeAwayGame.py)
 * [Course Part 1 Recap](HelpfulMaterials/Part1Recap.md)
+* [Bias Variance tradeoff: Overfitting and Underfitting](HelpfulMaterials/BiasVarianceTradeoff.ipynb)
 
 ## 📊 Course Grading
 
